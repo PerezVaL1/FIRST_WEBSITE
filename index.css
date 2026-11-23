@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+    border: 2px solid rgb(255, 255, 255);
+}
+
+body{
+    padding: 0%;
+    margin: 0%;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: lightyellow;
+}
+
+nav {
+    background-color: #96D1AF;
+}
+
+main {
+    background-color: #DDE3E3;
+}
+
+section {
+    background-color: #FFFFB9;
+}
+
+aside {
+    background-color: #D7C1ED;
+}
+
+footer {
+    background-color: #B3D1FF;
+    
+}
+
+.altura{
+    height: 100px;
+}
